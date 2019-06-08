@@ -18,7 +18,7 @@ class AddNoteForm extends Component {
 
 	render() {
 		return (
-			<Form className="form">
+			<Form className="form" method="POST">
 				<FormGroup>
 					<Label for="title">Title</Label>
 					<Input
@@ -43,6 +43,7 @@ class AddNoteForm extends Component {
 				>
 					Add
 				</Button>
+				<p />
 			</Form>
 		);
 	}

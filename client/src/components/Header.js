@@ -39,7 +39,7 @@ class Header extends Component {
 							<Nav className="ml-auto" navbar>
 								<NavItem>
 									<NavLink href="https://github.com/maxeuler" target="_blank">
-										Login
+										Github
 									</NavLink>
 								</NavItem>
 							</Nav>

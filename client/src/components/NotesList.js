@@ -33,6 +33,7 @@ const NotesList = props => (
 				);
 			})}
 		</ListGroup>
+		<p />
 	</Container>
 );
 
